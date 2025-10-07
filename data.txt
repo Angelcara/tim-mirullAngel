@@ -1,5 +1,5 @@
 Daftar kontribusi:
 - [Ini Kerjaan nya amirul ] Anggota 1 menambahkan satu baris teks di
 sini.
-- [ ] Anggota 2 menambahkan satu baris teks di
+- [kejaan angel] Anggota 2 menambahkan satu baris teks di
 sini.

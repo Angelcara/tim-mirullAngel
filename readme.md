@@ -5,4 +5,4 @@ Setiap anggota kelompok diminta untuk melakukan
 perubahan pada file `data.txt`.
 ## Anggota Kelompok
 - Amirul Muhammad Rabbani
-- Nama Anggota 2
+- Angelyca Azahra
